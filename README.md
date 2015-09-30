@@ -27,7 +27,7 @@ its package manager (npm) installed.  You can get them from [http://nodejs.org/]
 Clone the angular-seed repository using [git][git]:
 
 ```
-git clone https://github.com/angular/angular-seed.git
+git clone https://github.com/angular/aula-angular-seed.git
 cd angular-seed
 ```
 
